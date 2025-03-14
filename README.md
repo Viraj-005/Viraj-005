@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Induruwa</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm an enthusiastic AI/ML Developer, passionate about using technology to solve real-world problems and improve lives through deep learning, machine learning, and software development.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm an enthusiastic AI/ML, Data Science, Software Engineer, and Quality Assurance passionate about using technology to solve real-world problems and improve lives through deep learning, machine learning, and software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-005&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-005" /> </p>
 
