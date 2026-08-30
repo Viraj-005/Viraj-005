@@ -75,7 +75,7 @@ My day to day stack is Python and FastAPI on the backend, React on the front end
 | **ExportHub** | Windows desktop app for PostgreSQL data operations: a SQL query library, a table join studio, and a custom recursive descent SQL parser for smart joins | Python, Tkinter, PostgreSQL |
 | **DataDiff Pro** | Desktop file comparison tool with a themed UI and multi format export | Python, PySide6 |
 | **Network Threat Monitoring Dashboard** | A mini SIEM built as a cybersecurity portfolio project, with GeoIP enrichment and live updates over WebSocket | FastAPI, TimescaleDB, React, Docker |
-| **LankaScan** | A Shodan style network scanner focused on Sri Lankan IP space | Masscan, Nmap, FastAPI, PostgreSQL, React |
+| **Cancer Detective Pro** | AI powered cancer detection web app, takes medical imaging input and returns a diagnostic prediction | Python, TensorFlow, FastAPI |
 | **AllInOrder** | Personal records and credential manager, a mobile rebuild of a desktop application originally built for a university project | React Native, Expo, Drizzle ORM |
 
 ---
@@ -83,8 +83,8 @@ My day to day stack is Python and FastAPI on the backend, React on the front end
 ## GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=viraj-005&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&hide_title=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-005&layout=compact&langs_count=8&theme=default&hide_border=true&hide_title=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=viraj-005&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-005&layout=compact&langs_count=8&theme=default&hide_border=true&hide_title=true&cache_seconds=86400"/>
 </div>
 
 ---
