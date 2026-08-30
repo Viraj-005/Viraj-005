@@ -83,11 +83,15 @@ My day to day stack is Python and FastAPI on the backend, React on the front end
 ## GitHub Activity
 
 <div align="center">
-  <img width="47%" src="profile-summary-card-output/default/0-profile-details.svg"/>
-  <img width="47%" src="profile-summary-card-output/default/1-repos-per-language.svg"/>
-  <br/>
-  <img width="47%" src="profile-summary-card-output/default/2-most-commit-language.svg"/>
-  <img width="47%" src="profile-summary-card-output/default/3-stats.svg"/>
+
+[![](https://raw.githubusercontent.com/Viraj-005/Viraj-005/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Viraj-005/Viraj-005/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Viraj-005/Viraj-005/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Viraj-005/Viraj-005/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Viraj-005/Viraj-005/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
 ---
