@@ -83,8 +83,11 @@ My day to day stack is Python and FastAPI on the backend, React on the front end
 ## GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=viraj-005&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&cache_seconds=86400"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-005&layout=compact&langs_count=8&theme=default&hide_border=true&hide_title=true&cache_seconds=86400"/>
+  <img width="47%" src="profile-summary-card-output/default/0-profile-details.svg"/>
+  <img width="47%" src="profile-summary-card-output/default/1-repos-per-language.svg"/>
+  <br/>
+  <img width="47%" src="profile-summary-card-output/default/2-most-commit-language.svg"/>
+  <img width="47%" src="profile-summary-card-output/default/3-stats.svg"/>
 </div>
 
 ---
